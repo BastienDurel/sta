@@ -125,7 +125,7 @@
     "sta.actor.extendedtask.difficulty": "Difficulté",
     "sta.actor.extendedtask.resistance": "Résistance",
     "sta.actor.extendedtask.breakthroughs": "Apleur",
-    "sta.actor.extendedtask.completed": "Tâche Etendue Finie!",
+    "sta.actor.extendedtask.completed": "Tâche Etendue Finie !",
 
     "sta.item.genericitem.name": "Nom",
     "sta.item.genericitem.description": "Description",
@@ -149,9 +149,9 @@
     "sta.item.house.legacy.physicians": "Physiciens",
 
     "sta.apps.dicepoolwindow": "Réserve de Dés",
-    "sta.apps.focus": "Utiliser l'Impulsion?",
+    "sta.apps.focus": "Utiliser l'Impulsion ?",
     "sta.apps.determination": "Utiliser la Détermination?",
-    "sta.apps.complicationrange": "Echelle de Complication (1 par défaut)?",
+    "sta.apps.complicationrange": "Echelle de Complication (1 par défaut) ?",
     "sta.apps.pool": "Nombre de Dés dans la réserve",
     "sta.apps.rolldice": "Lancer les Dés",
 
@@ -159,11 +159,11 @@
     "sta.roll.successPlural": "Succès",
     "sta.roll.task.name": "Tâches",
     "sta.roll.complicationrange": "La Marge de Complication est ",
-    "sta.roll.complication": "Il y a un Complication!",
-    "sta.roll.complicationPlural": "Il y a eu |#| Complications!",
-    "sta.roll.effect": "I y a eu des Effets!",
-    "sta.roll.effectPlural": "Il y a eu |#| Effets!",
-    "sta.roll.rerollresults": "Relancer les résultats?",
+    "sta.roll.complication": "Il y a une Complication !",
+    "sta.roll.complicationPlural": "Il y a eu |#| Complications !",
+    "sta.roll.effect": "Il y a eu des Effets !",
+    "sta.roll.effectPlural": "Il y a eu |#| Effets !",
+    "sta.roll.rerollresults": "Relancer les résultats ?",
 
     "sta.roll.weapon.damage": "<b>|#|</b> Dégâts",
     "sta.roll.armor.protect": "<b>|#|</b> Résistance",
@@ -173,10 +173,10 @@
     "sta.tracker.threat": "Menace",
     "sta.tracker.momentum": "Momentum",
 
-    "sta.notifications.momentuminvalidpermissions": "Vous n'êtes pas autorisé à changer Momentum!",
-    "sta.notifications.momentummin": "Vous ne pouvez pas définir Momentum sur une valeur inférieure à 0!",
-    "sta.notifications.momentummax": "Vous ne pouvez pas définir Momentum sur une valeur supérieure à 6!",
-    "sta.notifications.threatinvalidpermissions": "Vous n'êtes pas autorisé à changer Menace!",
-    "sta.notifications.threatmin": "Vous ne pouvez pas définir Menace sur une valeur inférieure à 0!",
-    "sta.notifications.threatmax": "Il y a trop de Menace!"
+    "sta.notifications.momentuminvalidpermissions": "Vous n'êtes pas autorisé à changer Momentum !",
+    "sta.notifications.momentummin": "Vous ne pouvez pas définir Momentum sur une valeur inférieure à 0 !",
+    "sta.notifications.momentummax": "Vous ne pouvez pas définir Momentum sur une valeur supérieure à 6 !",
+    "sta.notifications.threatinvalidpermissions": "Vous n'êtes pas autorisé à changer Menace !",
+    "sta.notifications.threatmin": "Vous ne pouvez pas définir Menace sur une valeur inférieure à 0 !",
+    "sta.notifications.threatmax": "Il y a trop de Menace !"
 }
